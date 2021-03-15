@@ -13,4 +13,3 @@ x+y
  def add(a,b):
      return a+b
 
-c
